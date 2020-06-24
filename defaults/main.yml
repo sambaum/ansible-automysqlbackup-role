@@ -35,3 +35,5 @@ automysqlbackup_cron:
   weekday: "*"
 
 automysqlbackup_latest: "no"
+
+automysqlbackup_max_allowed_packet: ""
